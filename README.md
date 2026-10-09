@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-**vexanonus/vexanonus** is a ✨ _special_ ✨ repository because I live here**
+**vexanonus/vexanonus** is a ✨ _special_ ✨ repository because I live here
 
+<img width="1920" height="1080" alt="branded-angel-light copy 2" src="https://github.com/user-attachments/assets/c8c8defe-e589-4c33-b835-ba532f428a4e" />
 
 
 
