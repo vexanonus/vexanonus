@@ -2,7 +2,7 @@
 
 **vexanonus/vexanonus** is a ✨ _special_ ✨ repository because I live here
 
-<img width="1920" height="1080" alt="branded-angel-light copy 2" src="https://github.com/user-attachments/assets/c8c8defe-e589-4c33-b835-ba532f428a4e" />
+<img width="1920" height="1080" alt="Vexanonus banner" src="https://github.com/user-attachments/assets/c8c8defe-e589-4c33-b835-ba532f428a4e" />
 
 <div align="center">
 
@@ -27,6 +27,10 @@ The questions belong together. How do we reach each other? How do we organise? W
 A connection should lead somewhere. To a friend. A collaboration. Help arriving. Something happening outside the screen.
 
 <sub>I didn’t know what “vex” meant when I named it. Here we are.</sub>
+
+## Repos
+
+- [VexConnect](https://github.com/vexanonus/vexconnect): a Facebook-shaped social network you host yourself. One click into your own Cloudflare; sign in with Omxus.
 
 ## The rules
 
@@ -137,13 +141,13 @@ Maybe some of it hides where nobody looks.
   
 ### Funny Facts
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/aae463a0-a6a4-4c15-b9f5-dc464fd7c02d" />
+<img width="300" height="300" alt="Funny facts" src="https://github.com/user-attachments/assets/aae463a0-a6a4-4c15-b9f5-dc464fd7c02d" />
 
 **🍅 🍅 🍅 3 x tomatoes** **🚶🏿‍➡️** walking down the street—a 👴 papa tomato, a 👩🏻 mama tomato, and a 🛸baby tomato. Baby tomato starts lagging behind, & papa tomato gets really angry, goes back, squishes him, & says, 
 
 **'Ketchup!'**  🦋
 
-<div>
+</div>
 
 
 ---
