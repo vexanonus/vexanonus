@@ -32,6 +32,18 @@ A connection should lead somewhere. To a friend. A collaboration. Help arriving.
 
 - [VexConnect](https://github.com/vexanonus/vexconnect): a Facebook-shaped social network you host yourself. One click into your own Cloudflare; sign in with Omxus.
 
+## For developers
+
+**Stack.** TypeScript on Cloudflare Workers, D1 and R2. Rust where speed or safety matters. Sign-in is standard OpenID Connect through [Omxus](https://auth.omxus.com), so any app can use it.
+
+**How we build.**
+- Self-hosted first. Your data lives in your account, not ours.
+- One command to run, one to test, one to deploy.
+- Small, readable pieces over clever ones. If it needs a meeting to explain, it needs a rewrite.
+- Open by default. Good ideas spread faster than they can be guarded.
+
+**Contributing.** Issues and pull requests are welcome, especially from anyone who writes Rust or good docs. Open an issue first for anything big so we can shape it together. Be kind in review: we critique code, not people.
+
 ## The rules
 
 ### Swing for the fence
